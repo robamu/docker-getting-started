@@ -1,4 +1,6 @@
 # Docker Getting Started
+ 
+Install [docker](https://docs.docker.com/get-docker/) first if not already done so.
 
 ## Basic C
 
